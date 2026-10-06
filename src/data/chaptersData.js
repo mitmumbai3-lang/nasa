@@ -1,0 +1,80 @@
+export const chaptersData = [
+  {
+    id: "01",
+    numeral: "I",
+    verse: "Genesis 1:1",
+    title: "In the Beginning",
+    reflective: "Light entered the darkness, and the world began.",
+    image: "/images/creation.jpg",
+    artStyle: "Dramatic Chiaroscuro after Caravaggio & J.M.W. Turner",
+    artDescription: "A primal beam of golden divine light piercing the storm-tossed cosmic waters, speaking cosmos out of chaos.",
+    fullScripture: `In the beginning, God created the heavens and the earth. The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters. And God said, “Let there be light,” and there was light. And God saw that the light was good.`,
+    theology: "Creation is not an accident of colliding matter, but an intentional act of holy communion. God speaks, and reality blossoms. The first word spoken into the darkness is light—setting a pattern that will echo all the way to the dawn of the empty tomb.",
+    reflectionPrompt: "Where in your own life is there formless darkness waiting for the voice of God to command light?"
+  },
+  {
+    id: "02",
+    numeral: "II",
+    verse: "Genesis 15:5",
+    title: "A Promise in the Stars",
+    reflective: "A promise was spoken beneath more stars than could be counted.",
+    image: "/images/promise.jpg",
+    artStyle: "Cosmic Sublime Romanticism in the style of Caspar David Friedrich",
+    artDescription: "Abraham standing atop a quiet desert ridge beneath an infinite celestial canopy of swirling golden galaxies and midnight sapphire.",
+    fullScripture: `And He brought him outside and said, “Look toward heaven, and number the stars, if you are able to number them.” Then He said to him, “So shall your offspring be.” And he believed the Lord, and He counted it to him as righteousness.`,
+    theology: "Before Abraham possessed a single acre of land or held a child of promise in his arms, God invited him into the quiet desert night. Faith begins not with human power, but with trusting a promise whose scope stretches far beyond what our eyes can measure.",
+    reflectionPrompt: "What promise has God spoken over your future that seems impossible in the daylight of current circumstances?"
+  },
+  {
+    id: "03",
+    numeral: "III",
+    verse: "Exodus 14:22",
+    title: "The Way Through",
+    reflective: "Where there was no way forward, a way was made.",
+    image: "/images/exodus.jpg",
+    artStyle: "Monumental Renaissance Epic Canvas",
+    artDescription: "The miraculous parting of the Red Sea—towering walls of illuminated crystalline ocean parted before the pillar of divine fire.",
+    fullScripture: `And the people of Israel went into the midst of the sea on dry ground, the waters being a wall to them on their right hand and on their left... Then Moses stretched out his hand over the sea, and the Lord drove the sea back by a strong east wind all night and made the sea dry land.`,
+    theology: "Trapped between Pharaoh's chariots and an impassable sea, the people learned that deliverance does not come from circumventing the abyss, but by being led through its very heart. The parted sea stands as history's eternal monument: God makes a way where there is none.",
+    reflectionPrompt: "When you face an insurmountable barrier, do you pray for the obstacle to disappear, or for the courage to walk through the parted waters?"
+  },
+  {
+    id: "04",
+    numeral: "IV",
+    verse: "John 1:14",
+    title: "The Word Made Flesh",
+    reflective: "The eternal Word stepped into our ordinary world.",
+    image: "/images/jesus.jpg",
+    artStyle: "Intimate Warm Chiaroscuro in the style of Rembrandt van Rijn",
+    artDescription: "Christ breaking warm bread in the golden lantern light of a rustic upper room, sharing table fellowship and boundless compassion.",
+    fullScripture: `And the Word became flesh and dwelt among us, and we have seen His glory, glory as of the only Son from the Father, full of grace and truth... For God so loved the world, that He gave His only Son, that whoever believes in Him should not perish but have eternal life.`,
+    theology: "The infinite Creator did not remain aloof in untouchable splendor. He entered our dust, touched the leper, dried the tears of widows, and broke bread with the broken. The glory of God is revealed not in domination, but in self-giving sacrificial love.",
+    reflectionPrompt: "How does the reality that God experienced human hunger, grief, and laughter change the way you speak to Him today?"
+  },
+  {
+    id: "05",
+    numeral: "V",
+    verse: "Matthew 28:6",
+    title: "Morning Has Come",
+    reflective: "The grave was empty. Hope was alive.",
+    image: "/images/resurrection.jpg",
+    artStyle: "Sacred Classical Masterpiece by Carl Heinrich Bloch (1881)",
+    artDescription: "The stone rolled away as rosy dawn breaks through the garden of olives, banishing the cold shadows of the tomb with unshakeable triumph.",
+    fullScripture: `He is not here, for He has risen, as He said. Come, see the place where He lay. Then go quickly and tell His disciples that He has risen from the dead, and behold, He is going before you to Galilee; there you will see Him. See, I have told you.`,
+    theology: "The resurrection is not a metaphor or a poetic wish; it is the first tremor of an earthquake that is remaking the cosmos. Death, humanity's oldest enemy, has been swallowed up in victory. Because the tomb is empty, no sorrow is final, and no despair has the last word.",
+    reflectionPrompt: "What in your life feels dead and buried? Can you surrender it to the God who empties tombs?"
+  },
+  {
+    id: "06",
+    numeral: "VI",
+    verse: "Revelation 21:5",
+    title: "All Things Made New",
+    reflective: "Every wound is healed, and all things are restored.",
+    image: "/images/new-creation.jpg",
+    artStyle: "Luminous Celestial Landscape by John Martin — 'The Plains of Heaven' (1853)",
+    artDescription: "The celestial horizon where heaven and earth kiss—the river of water of life flowing through golden hills into a restored, radiant creation.",
+    fullScripture: `And He who was seated on the throne said, “Behold, I am making all things new.” Also He said, “Write this down, for these words are trustworthy and true.” ... He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore.`,
+    theology: "The Christian hope is not an escape from creation to an ethereal cloud, but the complete redemption and physical renewal of the earth itself. The story that began in a garden ends in a radiant garden-city where God dwells face to face with His redeemed family forever.",
+    reflectionPrompt: "How does knowing the glorious ending of the story give you endurance for the chapter you are living today?"
+  }
+];
